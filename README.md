@@ -23,7 +23,7 @@ La **FISTRO PUBLIC LICENSE (FPL) v1.0 ("Diodená")** es una licencia open source
 Cuatro pasos más fáciles que el mecanismo de un botijorrr:
 
 1. **Copia** [`LICENSE.txt`](./LICENSE.txt) a la raíz de tu repo.
-2. **Reemplaza los placeholders SOLO de la línea 4** (la línea 2 NO se toca, fistro — `año 2026` es el año de la versión de la licencia, NO el de tu copyright):
+2. **Reemplaza los placeholders SOLO del bloque `Copyright (C)`** (la línea de versión y las del texto canónico NO se tocan, fistro — `año 2026` es el año de la versión de la licencia, NO el de tu copyright):
    - `<AÑO>` → el año en que aplicas la licencia (p.ej. `2026`).
    - `<TITULARRRRR DEL COPYRIGHT>` → tu nombre o el de tu organización (p.ej. `Manolita Fistraza`).
 3. **(Opcional)** añade en las cabeceras de tus archivos fuente:
